@@ -1,0 +1,18 @@
+### Java template
+*.class
+
+### Python template
+*.pyc
+
+*/target/*
+
+# Package Files #
+
+# virtual machine crash logs
+
+# data tmp file
+
+# file dir
+
+# mac tmp file
+.DS_Store
